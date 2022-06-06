@@ -1,37 +1,106 @@
-## Welcome to GitHub Pages
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-You can use the [editor on GitHub](https://github.com/vardhaman-eee/a6024/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# For courses with a single offering in the _config.yml,
+# uncomment the following line and comment out the course-multi line
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+layout: course-single
+#layout: course-multi
+---
 
-### Markdown
+# <a name="description">Objectives</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  Making the students socially responsible is the main motto. In this process introducing technological concepts and creating innovating product is carried out for the community. The Product Realization introduces communication with community, planning of product realization, design and development of the product added with skill sets of leadership. This course given an exposure on converting an innovative idea to physical product to meet the need of the community. It improves skill of research paper writing, patent drafting and also developing the skill of preparation of business models.
 
-```markdown
-Syntax highlighted code block
+## <a name="outcomes">Course Outcomes</a>
 
-# Header 1
-## Header 2
-### Header 3
+After the completion of the course, the student will be able to:
 
-- Bulleted
-- List
+A6024.1. Interpret the specifications of product and solve for practical realization.
 
-1. Numbered
-2. List
+A6024.2. Analyse the customers mind set and design the product.
 
-**Bold** and _Italic_ and `Code` text
+A6024.3. Develop Gantt chart to define timeline for product realization.
 
-[Link](url) and ![Image](src)
-```
+A6024.4. Conceptualize the terms called product, purchase, production and monitoring of products.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+A6024.5. Communicate the process of converting an idea to physical product to the community.
 
-### Jekyll Themes
+# <a name="syllabus">Syllabus</a>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vardhaman-eee/a6024/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Introduction and Planning of Product Realization:** Introduction to Product Realization, Need for Product Realization, Product realization process, Case Study of Product Realization for Global Opportunities. Plan and develop the processes needed for product realization, Defining Quality objectives and requirements, establish processes documents. Needs - verification, validation, monitoring inspection and test activities (inspection nodes) and criteria for product acceptance and record needed. Case study on timeline of Product realization planning (Gantt Chart).
 
-### Support or Contact
+**Customer-Related Processes:** Product information Enquiries, contracts or order handling Customer feedback including customer complaints, A field survey. 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Design and Development:** Review verification and validation of each design and development stages, Functional and performance requirements, Information for purchasing, production and service provisions, review and validation, Develop a Design model of the product.
+
+**Purchasing, Production and Service Provision:** Purchasing information, Vendors evaluation and approval process, Verification of purchased product. Control of production, service provision, validation of processes for production and service provision, Identification and tractability, Customer property and Preservation of product.
+
+**Scope of Product Perseverance:** Writing proficiency for papers, Patent drafting and development of business model.
+
+# <a name="textbooks">Text Books</a>
+
+1. Mileta M Tomovic, Sowping Wang, Product Realization – A Comprehensive Approach, 1st Edition, Spinger, 2009.
+2. Stark, John, Product Life Cycle Management, 21st century Paradigm for Product Realisation 2011, Springer.
+
+## <a name="references">Reference Books</a>
+
+1. Verna J. Bowen, Lucy V. Fusco, The Competitive Edge Research Priorities for U.S. Manufacturing, National Academy of Sciences.
+2. Renuka Thota, Suren Dwivedi, Implementation of product realization concepts in design and manufacturing courses, University of Louisiana-Lafayette.
+
+<hr>
+
+# Resources
+
+## <a name="lecturenotes">Lecture Notes</a>
+
+1. Unit I [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
+2. Unit II [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
+3. Unit III [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
+4. Unit IV [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
+5. Unit V [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
+
+<hr>
+
+# Coursework
+
+Inform the instructor any time *prior* to the due date for an assignment that you wish to use a late day; you may then turn in the assignment up to 24
+hours late. Multiple late days may be used on the same assignment. There are no partial late days; turning in an assignment 2 hours late or 20 hours late will
+both use 1 late day. Note that late days are intended to cover both normal circumstances (you simply want more time to work on the assignment) and exceptional circumstances. The late assignments will receive at most half credit.
+
+## <a name="aat">Alternate Assessments</a>
+
+| #  | Name | Assigned | Due |
+|:--:|-----||:--------:|:---:|
+|1 | [Info Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | W Aug 28 | F Aug 30 |
+|2 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
+|3 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
+|4 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
+
+## <a name="practice">Practice</a>
+
+1. Introducing oneself to the steps of Product realization.
+2. Case Study to define the necessity.
+3. Brainstorming Session on Product Realization in teams.
+4. Watching videos on Planning of product realization in real time scenario from R Labs.
+5. Verification of the Product specifications which satisfies all the needs.
+6. Discussion with Customers about the product and the specifications.
+7. Discussion about the finished product and taking feedback.
+8. Feedback Analysis and redesign if required.
+9. Verification of redesigned product and market study.
+10. Discussion on different Purchasing and Services for the product development.
+11. Data from the customer for market and feedback of market is acquired.
+12. Activity on Observation skills to know how to use one’s observation skills in understanding the parameters
+13. Brainstorming deliberations on the initial observations and measuring of the product.
+14. Familiarization of the respective templates with the help of sample case study.
+
+
+**Lab attendance is required**.
+
+## <a name="cat">Continuous Assessment</a>
+
+| #  | Name | Question Paper | Schema  |
+|:--:|-----||:--------:|:---:|
+|1 | CAT - I | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
+|2 | CAT - II | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |

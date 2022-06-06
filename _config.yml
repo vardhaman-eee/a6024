@@ -51,8 +51,8 @@ navigation:
         url: '#practice'
       - page: Alternative Assessment
         url: '#aat'
-      - page: Continuous Assessment
-        url: '#cat'      
+#      - page: Continuous Assessment
+#        url: '#cat'      
   - page: Commitments
     url: '#commitments'
 

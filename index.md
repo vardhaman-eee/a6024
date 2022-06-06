@@ -94,13 +94,3 @@ both use 1 late day. Note that late days are intended to cover both normal circu
 12. Activity on Observation skills to know how to use one’s observation skills in understanding the parameters
 13. Brainstorming deliberations on the initial observations and measuring of the product.
 14. Familiarization of the respective templates with the help of sample case study.
-
-
-**Lab attendance is required**.
-
-## <a name="cat">Continuous Assessment</a>
-
-| #  | Name | Question Paper | Schema  |
-|:--:|-----||:--------:|:---:|
-|1 | CAT - I | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
-|2 | CAT - II | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |

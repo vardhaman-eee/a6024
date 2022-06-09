@@ -55,11 +55,11 @@ A6024.5. Communicate the process of converting an idea to physical product to th
 
 ## <a name="lecturenotes">Lecture Notes</a>
 
-1. Unit I [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-2. Unit II [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-3. Unit III [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-4. Unit IV [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-5. Unit V [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
+1. Unit I [Download](https://vardhamancoe.sharepoint.com/:p:/s/PRTEAM2022II-II/ER3xFGi395dGldUWKMiS16QBB0I6b0gLa4rJyIRAC71KuA?e=sgER4k)
+2. Unit II [https://vardhamancoe.sharepoint.com/:p:/s/PRTEAM2022II-II/Ec0EoYMTAMJDiByK1sMvUr4BQfdwPSUOwubuVQQ81rqnfw?e=4Mabfh)
+3. Unit III [https://vardhamancoe.sharepoint.com/:p:/s/PRTEAM2022II-II/EaCsyzwes6dHqLpgRc7dcIIB890104FcUWr-ROqpHLmQEA?e=1aBrds)
+4. Unit IV [Download](https://vardhamancoe.sharepoint.com/:p:/s/PRTEAM2022II-II/EXd5IrtsyvdBg5LOD8QQ44kBldjPq8HY7U17osrPOtH86Q?e=ft6RVA)
+5. Unit V [Download](https://vardhamancoe.sharepoint.com/:b:/s/PRTEAM2022II-II/EXr0_Ct6WC5NgBgTEMpsspUBFQhVYQ6Il0GqrLSjonT3-A?e=YWuEk2)
 
 <hr>
 
@@ -71,12 +71,14 @@ both use 1 late day. Note that late days are intended to cover both normal circu
 
 ## <a name="aat">Alternate Assessments</a>
 
-| #  | Name | Assigned | Due |
-|:--:|-----||:--------:|:---:|
-|1 | [Info Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | W Aug 28 | F Aug 30 |
-|2 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|3 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|4 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
+| #  | Name | Assigned |
+|:--:|-----||:--------:|
+|1 | PR Review 1 Poster Template | [Download](https://vardhamancoe.sharepoint.com/:p:/s/PRTEAM2022II-II/Eb75SKWzaxtGgddJp_X8aaMBeM66ytwQBBRzOYPPM3Pfug?e=86VcCY) 
+|2 | PR Review 2 PPT Template  | [Download](https://vardhamancoe.sharepoint.com/:p:/s/PRTEAM2022II-II/EeOGSw1G0wlCin0vMf5_qg8BmvvHy50YYo7cwLDcpTOAoQ?e=z99yqX)
+|3 | PR Abstract Template  | [Download](https://vardhamancoe.sharepoint.com/:w:/s/PRTEAM2022II-II/EVwmdDvr4ZhCsWkRTGRzf2ABxP8iha8e_XRTWgmtUwz0lg?e=GkCnzg)
+|4 | PR Report Front Pages  | [Download](https://vardhamancoe.sharepoint.com/:w:/s/PRTEAM2022II-II/EYHxsl1AYmxFuq_-1OnbcO4B1bmiUf1UdbswwHrrBKaojw?e=rbwfh3)
+|5 | PR Report Template  | [Download](https://vardhamancoe.sharepoint.com/:w:/s/PRTEAM2022II-II/EdDLI3s4XthJhneM2M9iE_sBNlL1lEpgk_IkiWwrfbMqhA?e=FZSVuK)
+|6 | Syllabus | [Download](https://vardhamancoe.sharepoint.com/:w:/s/PRTEAM2022II-II/EeLB7Q8HyrFOjHiqP5zyQe8Bg-b50h3MzdFG5GhQqK6jGg?e=Etd5f8)
 
 ## <a name="practice">Practice</a>
 

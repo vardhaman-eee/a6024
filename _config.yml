@@ -58,10 +58,10 @@ navigation:
 
 instructors:
   - id: srv
-    name: Ms. Fatima Unnisa
-    email: fatimaunnisa@vardhaman.org
+    name: Mr. S. Vinod Reddy
+    email: s.vinodreddy@vardhaman.org
     #web: http://wwww.example.com
-    phone: +91 99496 15845
+    phone: +91 81254 21181
 
 offerings:
   - name: LECTURE

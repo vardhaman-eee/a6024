@@ -56,8 +56,8 @@ A6024.5. Communicate the process of converting an idea to physical product to th
 ## <a name="lecturenotes">Lecture Notes</a>
 
 1. Unit I [Download](https://vardhamancoe.sharepoint.com/:p:/s/PRTEAM2022II-II/ER3xFGi395dGldUWKMiS16QBB0I6b0gLa4rJyIRAC71KuA?e=sgER4k)
-2. Unit II [https://vardhamancoe.sharepoint.com/:p:/s/PRTEAM2022II-II/Ec0EoYMTAMJDiByK1sMvUr4BQfdwPSUOwubuVQQ81rqnfw?e=4Mabfh)
-3. Unit III [https://vardhamancoe.sharepoint.com/:p:/s/PRTEAM2022II-II/EaCsyzwes6dHqLpgRc7dcIIB890104FcUWr-ROqpHLmQEA?e=1aBrds)
+2. Unit II [Download][https://vardhamancoe.sharepoint.com/:p:/s/PRTEAM2022II-II/Ec0EoYMTAMJDiByK1sMvUr4BQfdwPSUOwubuVQQ81rqnfw?e=4Mabfh)
+3. Unit III [Download](https://vardhamancoe.sharepoint.com/:p:/s/PRTEAM2022II-II/EaCsyzwes6dHqLpgRc7dcIIB890104FcUWr-ROqpHLmQEA?e=1aBrds)
 4. Unit IV [Download](https://vardhamancoe.sharepoint.com/:p:/s/PRTEAM2022II-II/EXd5IrtsyvdBg5LOD8QQ44kBldjPq8HY7U17osrPOtH86Q?e=ft6RVA)
 5. Unit V [Download](https://vardhamancoe.sharepoint.com/:b:/s/PRTEAM2022II-II/EXr0_Ct6WC5NgBgTEMpsspUBFQhVYQ6Il0GqrLSjonT3-A?e=YWuEk2)
 
